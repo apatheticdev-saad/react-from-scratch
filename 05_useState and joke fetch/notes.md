@@ -50,3 +50,4 @@ setLoading(false)
 
 ## Extra
 also can add button to change joke, by remove logic from useState to newly created function
+same js logic needed to be applied, but keep focus on which function need to be where
