@@ -4,6 +4,7 @@
 Lets you run code **after the component appears on screen.**
 Used for — API calls, timers, connecting to services.
 
+
 ## Basic Syntax
 ```jsx
 useEffect(() => {
