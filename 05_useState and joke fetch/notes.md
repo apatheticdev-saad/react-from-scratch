@@ -46,3 +46,7 @@ setLoading(false)
 - Always pass `[]` unless you have a reason not to
 - fetch inside useEffect = data loads automatically on page open
 - Use a loading state to handle the delay before data arrives
+
+
+## Extra
+also can add button to change joke, by remove logic from useState to newly created function
