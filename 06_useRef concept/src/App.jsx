@@ -31,3 +31,24 @@ function App() {
 }
 
 export default App
+
+
+
+// Another example
+
+// import { useRef } from "react"
+
+// function App() {
+//     const count = useRef(0)
+
+//     function handleClick() {
+//         count.current = count.current + 1
+//         console.log("Clicked", count.current, "times")
+//     }
+
+//     return (
+//         <button onClick={handleClick}>Click me</button>
+//     )
+// }
+
+// export default App
