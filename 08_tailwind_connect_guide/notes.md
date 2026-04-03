@@ -3,7 +3,7 @@
 ## 📁 Folder Structure
 
 ```
-07_tailwind_connect_guide/
+08_tailwind_connect_guide/
 └── tailwind_props/
 ```
 
