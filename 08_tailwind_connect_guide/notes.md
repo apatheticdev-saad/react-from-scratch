@@ -208,3 +208,5 @@ You should see:
 ---
 
 🔥 You now have a **perfect reusable setup guide**
+
+Managing these all with academics
