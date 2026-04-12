@@ -211,7 +211,7 @@ You should see:
 
 Managing these all with academics
 Exams frtom 28th April Guys
-Started with subject TOC (Theory of compuitationm)
+Started with subject TOC (Theory of Computation)
 
 
 
