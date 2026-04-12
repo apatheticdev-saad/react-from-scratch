@@ -209,6 +209,7 @@ You should see:
 
 🔥 You now have a **perfect reusable setup guide**
 
+Further Personal sharing  : 
 Managing these all with academics
 Exams frtom 28th April Guys
 Started with subject TOC (Theory of Computation)
