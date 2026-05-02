@@ -10,6 +10,7 @@ function App() {
     }
 
     return (
+
         <ThemeContext.Provider value={theme}>
             <button onClick={toggleTheme}>Switch Theme</button>
             <Page />

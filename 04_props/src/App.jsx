@@ -10,6 +10,7 @@ function App() {
     <Birthday name="Saad"/>
     <Birthday name="Ram"/>
     <Birthday name="Aman"/>
+    <Birthday name="Jack"/> // Will be passed ?
 
     </div>
         </>
