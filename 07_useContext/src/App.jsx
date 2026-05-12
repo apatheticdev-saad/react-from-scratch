@@ -2,15 +2,16 @@ import { useState } from "react"
 import ThemeContext from "./ThemeContext"
 import Page from "./Page"
 
-function App() {
+function App() 
+{
     const [theme, setTheme] = useState("light")
 
-    function toggleTheme() {
+    function toggleTheme() 
+    {
         theme === "light" ? setTheme("dark") : setTheme("light")
     }
 
     return (
-
         <ThemeContext.Provider value={theme}>
             <button onClick={toggleTheme}>Switch Theme</button>
             <Page />

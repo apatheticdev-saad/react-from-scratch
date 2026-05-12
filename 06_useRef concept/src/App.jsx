@@ -1,6 +1,7 @@
 import { useRef } from "react"
 
-function App() {
+function App() // Hmm
+{
     const boxRef = useRef(null)
 
     function makeRed() {
@@ -14,6 +15,7 @@ function App() {
     function makeBlue() {
         boxRef.current.style.backgroundColor = "blue"
     }
+
 
     return (
         <>
