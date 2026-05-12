@@ -7,7 +7,6 @@ function App()
            <Welcome name="Saad" age={19} city="Hyderabad" />
             <div>
 
-
     <Birthday name="Saad"/>
     <Birthday name="Ram"/>
     <Birthday name="Aman"/>

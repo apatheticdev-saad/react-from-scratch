@@ -5,7 +5,6 @@
 Props (short for properties) are how you pass data from a **parent component to a child component**.
 
 Think of a component like a function — props are its arguments. Same component, different data passed = different output.
-
 ---
 
 ## Passing Props
