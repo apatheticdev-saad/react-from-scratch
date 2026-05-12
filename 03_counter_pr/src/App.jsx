@@ -9,21 +9,18 @@ function App() {
         setCount(count + 1)
     }
   }
-
     function removeOne()
     {
     if(count > 0){
       setCount(count - 1)
     }
   }
-
   function doReset()
   {
     if(count !=0)
       setCount(0)
   }
   
-
     return (
         <>
             <h1>Counts - {count}</h1>
@@ -40,5 +37,4 @@ function App() {
         </>
     )
 }
-
-export default App
+export default App // must

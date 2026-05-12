@@ -7,7 +7,6 @@ A component is just a JavaScript function that returns JSX (HTML-like code). It 
 Think of it like LEGO — each brick is a component, and you combine them to build a full UI.
 
 ---
-
 ## Creating a Component
 
 ```jsx
@@ -23,7 +22,6 @@ export default Welcome
 - `export default` makes it available for other files to import
 
 ---
-
 ## Using a Component Inside Another Component
 
 ```jsx

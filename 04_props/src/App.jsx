@@ -1,6 +1,5 @@
 import Welcome from "./Welcome"
 import Birthday from "./Birthday"
-
 function App() 
 {
     return (
@@ -13,7 +12,6 @@ function App()
     <Birthday name="Ram"/>
     <Birthday name="Aman"/>
     <Birthday name="Jack"/>
-
     </div>
         </>
     )
